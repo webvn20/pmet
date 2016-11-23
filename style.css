@@ -48,7 +48,7 @@ body {
     display: block;
     width: 7px;
     height: 7px;
-    background-image: url('images/arrow.png');
+    background-image: url('https://sites.google.com/site/shimimet/arrow.png');
     background-repeat: no-repeat
 }
 
@@ -224,14 +224,14 @@ body {
     height: 429px;
     width: 100%;
     background-color: #4ea4dd;
-    background-image: url('images/bg-slider.jpg');
+    background-image: url('https://sites.google.com/site/shimimet/bg-slider.jpg');
     background-position: top center;
     background-repeat: repeat-x;
     margin-top: 58px;
 }
 
 #slider-container div.background {
-    background-image: url('images/bg-slider-center.jpg');
+    background-image: url('https://sites.google.com/site/shimimet/bg-slider-center.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     height: 100%;
@@ -347,7 +347,7 @@ body {
 }
 
 #supports {
-    background-image: url('images/bg-content-1.png');
+    background-image: url('https://sites.google.com/site/shimimet/bg-content-1.png');
     background-position: top left;
     background-repeat: repeat-x;
     padding: 20px 0 15px 0;
@@ -446,7 +446,7 @@ body {
 }
 
 .section.about-us .main.content ul {
-    list-style-image: url('images/checkbullet.png');
+    list-style-image: url('https://sites.google.com/site/shimimet/checkbullet.png');
     list-style-position: inside;
 }
 
@@ -671,7 +671,7 @@ body {
 }
 
 .section.devices .pnl-contact .right .button {
-    background: url('images/bg-btn-contact.png') center center no-repeat;
+    background: url('https://sites.google.com/site/shimimet/bg-btn-contact.png') center center no-repeat;
     padding: 10px;
 }
 
@@ -726,7 +726,7 @@ body {
 
 
 .section.others {
-    background-image: url('images/bg-others.jpg');
+    background-image: url('https://sites.google.com/site/shimimet/bg-others.jpg');
     background-position: top right;
     background-repeat: no-repeat;
     background-size: cover;
@@ -833,7 +833,7 @@ body {
 
 .section.prices h4,
 .section.services h4 {
-    background-image: url('images/bg-tbl-header.png');
+    background-image: url('https://sites.google.com/site/shimimet/bg-tbl-header.png');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -859,7 +859,7 @@ body {
 .section.services table {
     width: 100%;
     margin: 10px 0;
-    background-image: url('images/camket.png');
+    background-image: url('https://sites.google.com/site/shimimet/camket.png');
     background-position: center center;
     background-repeat: no-repeat;
 }
@@ -1059,7 +1059,7 @@ body {
     margin-top: 10px;
     padding: 15px;
     background: #f1f2f2;
-    background-image: url('images/bg-prices-tip.png');
+    background-image: url('https://sites.google.com/site/shimimet/bg-prices-tip.png');
     background-position: bottom left;
     background-repeat: no-repeat;
 }
@@ -1230,7 +1230,7 @@ body {
 
 #modalRequestForm  .modal-content .modal-footer {
     background: #f1f2f2;
-    background-image: url('images/bg-prices-tip.png');
+    background-image: url('https://sites.google.com/site/shimimet/bg-prices-tip.png');
     background-position: center left;
     background-repeat: no-repeat;
     padding: 20px 15px;
@@ -1341,7 +1341,7 @@ label span.error {
 
 .page-banner {
     background-color: #37adf7;
-    background-image: url('images/bg-1.jpg');
+    background-image: url('https://sites.google.com/site/shimimet/bg-1.jpg');
     background-position: center top;
     background-size: auto;
 }
@@ -1354,7 +1354,7 @@ label span.error {
     display: block;
     height: 3px;
     width: 100%;
-    background-image: url('images/sprite-trans.png');
+    background-image: url('https://sites.google.com/site/shimimet/sprite-trans.png');
     background-position: top center;
     background-repeat: repeat-x;
 }
@@ -1363,7 +1363,7 @@ label span.error {
     display: block;
     height: 3px;
     width: 100%;
-    background-image: url('images/sprite-trans.png');
+    background-image: url('https://sites.google.com/site/shimimet/sprite-trans.png');
     background-position: bottom center;
     background-repeat: repeat-x;
 }
@@ -1447,14 +1447,14 @@ label span.error {
 #post,
 #posts,
 #faq {
-    background-image: url('images/bg-content-1.png');
+    background-image: url('https://sites.google.com/site/shimimet/bg-content-1.png');
     background-position: top left;
     background-repeat: repeat-x;
     padding: 40px 0 0 0;
 }
 
 #faq .bg {
-    background-image: url('images/bg-prices-tip.png');
+    background-image: url('https://sites.google.com/site/shimimet/bg-prices-tip.png');
     background-repeat: no-repeat;
     background-position: bottom right;
 }
@@ -1621,7 +1621,7 @@ ul.pagination li a:hover {
 }
 
 #post .widget-title {
-    background-image: url('images/bg-tbl-header.png');
+    background-image: url('https://sites.google.com/site/shimimet/bg-tbl-header.png');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1783,7 +1783,7 @@ ul.pagination li a:hover {
     width: 200px;
     height: 43px;
     line-height: 43px;
-    background-image: url(/Images/btn-facebook.png);
+    background-image: url(/https://sites.google.com/site/shimimet/btn-facebook.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
