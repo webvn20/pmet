@@ -1,0 +1,78 @@
+﻿@media (max-width: 991px) {
+    #header .navbar-header .navbar-brand img {
+        height: 42px;
+    }
+
+    #header:not(.top) .navbar-header .navbar-brand {
+        padding: 8px 10px;
+    }
+
+    #header .navbar-collapse {
+        margin-left: 148px
+    }
+
+    
+    #header .navbar-collapse #menu {
+        margin-top: 41px;
+    }
+
+    .first-section,
+    #slider-container {
+        margin-top: 72px;
+    }
+
+    .section.about-us .main.content {
+        float: none;
+        width: 100%;
+    }
+
+    .pnl-register .content {
+        width: calc(100% - 220px);
+        margin-top: 0;
+        padding: 0 0 0 15px;
+    }
+
+    .pnl-register .button a {
+        margin-top: 15px;
+    }
+
+    .section.features h3.page-title {
+        text-align: center;
+    }
+
+    .section.devices .pnl-contact .left {
+        float: none;
+        width: 100%;
+        height: auto;
+        margin-bottom: 10px;
+        padding-right: 0;
+    }
+
+    .section.devices .pnl-contact .right {
+        float: none;
+        width: 100%;
+    }
+
+    .section.devices .pnl-contact .right .button {
+        width: 400px;
+        margin: 0 auto;
+    }
+
+    .section.others {
+        background: none;
+    }
+
+    .section.others .container h3.page-title {
+        margin-bottom: 20px;
+    }
+
+    .section.others .container .col-md-7 ul li.active,
+    .section.others .container .col-md-7 ul li {
+        display: block;
+        border-radius: 0;
+        padding: 0;
+        margin-bottom: 30px;
+        background: none;
+        font-size: 14px;
+    }
+}
